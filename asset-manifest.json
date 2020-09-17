@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iron-generation/static/css/main.5f361e03.chunk.css",
+    "main.js": "/iron-generation/static/js/main.9e6bfd47.chunk.js",
+    "main.js.map": "/iron-generation/static/js/main.9e6bfd47.chunk.js.map",
+    "runtime-main.js": "/iron-generation/static/js/runtime-main.195703c0.js",
+    "runtime-main.js.map": "/iron-generation/static/js/runtime-main.195703c0.js.map",
+    "static/js/2.4901a6b9.chunk.js": "/iron-generation/static/js/2.4901a6b9.chunk.js",
+    "static/js/2.4901a6b9.chunk.js.map": "/iron-generation/static/js/2.4901a6b9.chunk.js.map",
+    "index.html": "/iron-generation/index.html",
+    "precache-manifest.fe66a99a2473fdafb5c45cb2fd8f7637.js": "/iron-generation/precache-manifest.fe66a99a2473fdafb5c45cb2fd8f7637.js",
+    "service-worker.js": "/iron-generation/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/iron-generation/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4901a6b9.chunk.js.LICENSE.txt": "/iron-generation/static/js/2.4901a6b9.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/iron-generation/static/media/logo.4a753042.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.195703c0.js",
+    "static/js/2.4901a6b9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9e6bfd47.chunk.js"
+  ]
+}
